@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"站点简介","lang":"中文简体","frontmatter":{},"headers":[{"level":2,"title":"更多学习资源","slug":"更多学习资源","link":"#更多学习资源","children":[]}],"git":{"updatedTime":1694658715000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":5}]},"filePathRelative":"README.md"}');export{e as data};

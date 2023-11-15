@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3149e0fa","path":"/zh/DShanMCU_RA6M5/e2studio_use_dap/chapter1.html","title":"1. 资料准备","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1690962144000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/DShanMCU_RA6M5/e2studio_use_dap/chapter1.md"}');export{e as data};
