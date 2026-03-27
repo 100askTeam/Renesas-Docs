@@ -91,7 +91,7 @@ FreeRTOS使用两套函数，而不是使用一套函数，是因为有如下好
 ### 16.1.2 两套API函数列表
 
 | **类型**              | **在任务中** | **在ISR中**         |
-|  - -------------------------- |  - ----------------- |  - ------------------------ |
+|  --------------------------- |  ------------------ |  ------------------------- |
 | 队列(queue)                 | xQueueSendToBack   | xQueueSendToBackFromISR   |
 |                             | xQueueSendToFront  | xQueueSendToFrontFromISR  |
 |                             | xQueueReceive      | xQueueReceiveFromISR      |

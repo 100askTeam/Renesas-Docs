@@ -201,7 +201,7 @@ BaseType_t xSemaphoreTakeFromISR(
 
 xSemaphoreTakeFromISR函数的参数与返回值列表如下：
 
-| 参数                      | 说明                                                         |
+| **参数**                      | **说明**                                                        |
 |  ------------------------- |  ------------------------------------------------------------ |
 | xSemaphore                | 信号量句柄，获取哪个信号量                                   |
 | pxHigherPriorityTaskWoken | 如果获取信号量导致更高优先级的任务变为了就绪态， 则*pxHigherPriorityTaskWoken = pdTRUE |
